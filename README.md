@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Khushpreet
 
-<!--
-**Khushpreet0404/Khushpreet0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 MERN Stack Developer  
+🎨 Interested in UI/UX, design, and creative web experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Languages: JavaScript, HTML, CSS
+
+---
+
+## 🛠 Tools
+
+- Git & GitHub
+- Postman
+- Chrome DevTools
+- VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Redux Toolkit
+- Deployment
+- Socket.IO
+- Payment Integration
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Khushpreet0404
+- LinkedIn: https://linkedin.com/in/khushpreet-b22-26
+
+---
+
+⭐ Always learning and building.
